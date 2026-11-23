@@ -1,2 +1,2 @@
-# 1JT25CS126
-Project Management with GIT
+#Project Management with GIT
+This repository contains sample code for experiment 1.
